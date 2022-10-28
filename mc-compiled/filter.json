@@ -1,0 +1,13 @@
+{
+	"description": "The MCCompiled Programming Language",
+	"filters": [
+		{
+			"arguments": [
+				"--regolith"
+			],
+			"exe": "mc-compiled",
+			"runWith": "exe"
+		}
+	],
+	"version": "1.4.0"
+}
